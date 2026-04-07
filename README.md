@@ -20,9 +20,6 @@ El desarrollo se organiza en tres fases independientes:
 - **Fase 3 — Programación de lógica interna**  
   Procedimientos almacenados, triggers, eventos, inserciones de datos y reglas de negocio.
 
-Puedes ampliar la información y consultar la documentación detallada de cada fase aquí:  
-👉 **[Documentación completa del proyecto](./docs/README.md)**
-
 ## 📦 Estructura del repositorio
 /fase1_disenyo/          → Modelo .mwb y diagramas
 /fase2_implementacion/   → Esquema SQL
